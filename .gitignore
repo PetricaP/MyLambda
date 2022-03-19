@@ -1,0 +1,9 @@
+Cargo.lock
+target
+*.zip
+*.backup
+*.tfstate
+.terraform
+.terraform.lock.hcl
+.cargo
+*.txt
